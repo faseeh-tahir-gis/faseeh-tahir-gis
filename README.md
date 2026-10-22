@@ -30,7 +30,6 @@ I'm applying for **graduate research positions starting Fall 2027**.
 
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS%20/%20ArcMap-2C7AC3?style=for-the-badge)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%20(ArcPy)-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20(GEE%20API)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
