@@ -38,7 +38,6 @@ I'm applying for **graduate research positions starting Fall 2027**.
 | **Remote sensing** | Landsat, Sentinel-2, MODIS (LST), CHIRPS, GHSL, DMSP/VIIRS night-time lights; NDVI, EVI, SAVI, NDMI, NDBI, MNDWI; Random Forest classification |
 | **Spatial analysis** | Multi-temporal change detection, proximity & accessibility analysis, DEM terrain analysis, landscape metrics (FRAGSTATS) |
 | **Automation** | ArcPy Python Toolboxes, ReportLab PDF reporting, regular expressions |
-| **Field data** | KoboToolbox household surveys |
 
 ## 🗺️ Featured projects
 
