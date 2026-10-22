@@ -16,7 +16,7 @@
 
 ## 👋 About
 
-I'm a final-year **BS Geography** student at the **University of Gujrat** (Pakistan), using satellite data and spatial analysis to understand how land, cities and climate are changing. My work sits between **remote sensing, GIS and Python automation**, with training in **drought assessment** and **flood mapping**.
+I'm a final-year **BS Geography** student at the **University of Gujrat** (Pakistan), using satellite data and spatial analysis to understand how land, cities and climate are changing.
 
 I'm applying for **graduate research positions starting Fall 2027**.
 
