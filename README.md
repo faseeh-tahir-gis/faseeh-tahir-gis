@@ -85,7 +85,7 @@ This BS research capstone examines urban coalescence along approximately 320 km 
 
 ## GIS, Remote Sensing, and Analytical Skills
 
-- **GIS software:** ArcGIS Desktop, ArcMap 10.8, ArcGIS Python Toolboxes, file geodatabases, and QGIS
+- **GIS software:** ArcGIS Desktop, ArcMap 10.8, ArcGIS Python Toolboxes, file geodatabases
 - **Cloud geospatial analysis:** Google Earth Engine, image collections, reducers, exports, and dashboard interfaces
 - **Remote sensing:** Landsat, Sentinel-2, MODIS land-surface temperature, CHIRPS rainfall, GHSL, DMSP/VIIRS night-time lights, and ESA WorldCover
 - **Methods:** Random Forest classification, land-use/land-cover change detection, NDVI, EVI, SAVI, NDMI, NDBI, MNDWI, DEM terrain analysis, proximity analysis, accessibility analysis, landscape metrics, flood mapping, drought assessment, and susceptibility analysis
