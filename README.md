@@ -25,9 +25,20 @@ My work combines **Google Earth Engine**, **ArcGIS**, remote-sensing datasets, a
 
 ## Education
 
-**BS Geography** — University of Gujrat, Gujrat, Pakistan<br>\nExpected June 2027 | CGPA: 3.23 / 4.00
+**BS Geography** | University of Gujrat, Gujrat, Pakistan  
+**Expected Graduation:** June 2027  
+**CGPA:** 3.23 / 4.00
 
-Relevant coursework includes Remote Sensing, Geographic Information Systems, Spatial Analysis, Quantitative Techniques in Geography, Research Methods, Climatology, and Urban Geography.
+### Relevant Coursework
+
+- **GIS & Remote Sensing:** Geographic Information Systems (GIS), Advanced Remote Sensing, Principles of Cartography
+- **Earth & Environmental Sciences:** Fundamentals of Earth Systems, Environmental Geography, Climatology
+- **Geographical Analysis & Research:** Quantitative Techniques in Geography, Research Methods, Regional and Regional Concepts in Geography
+- **Geospatial Computing & Technology:** Computer Techniques in Geography, Applications of Information and Communication Technologies (ICT)
+
+### Academic Interests
+
+Applied GIS, Remote Sensing, Applied Earth Science, Geospatial Analysis, Urban Growth, Urban Climate, Land Use/Land Cover Change (LULC), and Environmental Monitoring.
 
 ## Current Capstone Research
 
