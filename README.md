@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Geographer | Geospatial Analyst | Remote Sensing Researcher</strong><br>
-  Urban change, environmental monitoring, climate intelligence, and disaster-risk analysis
+  Urban change, Environmental Monitoring, and Climate Intelligence
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 I am a final-year **BS Geography** student at the **University of Gujrat, Pakistan**, working with satellite data, geographic information systems, and spatial analysis to study urban growth, environmental change, and climate-related risks.
 
-My work combines **Google Earth Engine**, **ArcGIS**, remote-sensing datasets, and Python-based geoprocessing. I am interested in graduate research and applied geospatial projects focused on urbanization, environmental monitoring, climate intelligence, and disaster-risk reduction.
+My work combines **Google Earth Engine**, **ArcGIS**, remote-sensing datasets, and Python-based geoprocessing. I am interested in graduate research and applied geospatial projects focused on urbanization, environmental monitoring, and climate intelligence.
 
 ## Education
 
@@ -38,7 +38,7 @@ My work combines **Google Earth Engine**, **ArcGIS**, remote-sensing datasets, a
 
 ### Academic Interests
 
-Applied GIS, Remote Sensing, Applied Earth Science, Geospatial Analysis, Urban Growth, Urban Climate, Land Use/Land Cover Change (LULC), and Environmental Monitoring.
+Applied GIS, Remote Sensing, Applied Earth Science, Geospatial Analysis, Urban Growth, Urban Climate, and Environmental Monitoring.
 
 ## Current Capstone Research
 
